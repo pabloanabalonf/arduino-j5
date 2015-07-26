@@ -1,0 +1,23 @@
+{
+  "name": "arduino-j5",
+  "version": "1.0.0",
+  "description": "Johnny-five arduino tests",
+  "main": "hello_world.js",
+  "dependencies": {
+    "johnny-five": "^0.8.85"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Funkion/arduino-j5.git"
+  },
+  "author": "Pablo Anabalón <hi@pabloanabalon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Funkion/arduino-j5/issues"
+  },
+  "homepage": "https://github.com/Funkion/arduino-j5#readme"
+}
